@@ -1,5 +1,3 @@
---- layout: default title: EUPConnect Collaborative Network Overview
-
 ## 🌐 EUPConnect Collaborative Network Members and Partners
 
 ### 🏫 Network K–12 School Members
